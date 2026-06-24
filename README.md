@@ -50,7 +50,7 @@
 - Natural Language Processing (NLP)
 - Business Intelligence
 - Cloud Computing
-- Information Security & Ethics
+- Data Security & Ethics
 ---
 
 ## 📫 Contact
