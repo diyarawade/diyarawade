@@ -46,11 +46,11 @@
 
 ## 🌱 Currently Learning
 
-* Advanced Machine Learning
-* Data Science Applications
-* Business Intelligence
-* Data Analytics
-
+- Predictive Analytics
+- Natural Language Processing (NLP)
+- Business Intelligence
+- Cloud Computing
+- Information Security & Ethics
 ---
 
 ## 📫 Contact
